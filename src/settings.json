@@ -1,0 +1,5 @@
+{
+    "corsproxy": "http://localhost:8080/",
+    "rssurl": "http://rss.cnn.com/services/podcasting/studentnews/rss.xml",
+    "maxButtons": 4
+}
